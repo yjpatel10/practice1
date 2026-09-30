@@ -4,13 +4,13 @@ AIM: Perform operation using Linux Commands.
 
   1. ls
 
-It list down the files or directory.
+It lists down the files or directory.
 Input: ls
 output: 
 
   2. pwd
 
-It is a Present Working Directory which shows in which current directory you are.
+It's a Present Working Directory which shows in which current directory you are.
 Input: pwd
 Output: 
 
@@ -20,7 +20,7 @@ Input: cd exam
 Output:
     
    4. cd ..
-It is use to back to past directory.
+It is used to back to past directory.
 Input: cd ..
 Output:
 
