@@ -1,0 +1,94 @@
+PRACTICAL-1
+
+AIM: Perform operation using Linux Commands.
+
+  1. ls
+
+It list down the files or directory.
+Input: ls
+output: 
+
+  2. pwd
+
+It is a Present Working Directory which shows in which current directory you are.
+Input: pwd
+Output: 
+
+   3. cd
+It is use to change the current working directory.
+Input: cd exam 
+Output:
+    
+   4. cd ..
+It is use to back to past directory.
+Input: cd ..
+Output:
+
+   5. cal
+It shows the calendar.
+Input: cal
+Output:
+
+   6. mkdir
+It is use to create a new directory.
+Input: mkdir exam
+Output:
+ 
+   7. rmdir
+It is use to remove the already existed directory.
+Input: rmdir exam
+Output:
+
+   8. touch
+It is use to create the files.
+Input: touch pr1.txt
+Output: 
+
+   9. cat
+It is use to write the content in a file.
+Input: cat > pr1.txt
+    Heyy!! Myself Prachi Patel.
+    Student of RNGPIT, currently in B.Tech IT First Year.
+    My Hobbies are listening music, self care and reading books.
+Output:
+
+
+   10. grep
+It is use to find out the specific pattern from the file.
+Input: grep "self" pr1.txt
+Output:
+
+   11. man
+It gives manual of specific Linux commands.
+Input: man ls
+Output:
+   
+   12. ps
+It gives name of processes which already running on.
+Input: ps
+Output:
+
+   13. rm
+It is use to remove the files.
+Input: rm pr1.txt
+Output: 
+ 
+   14.sort
+It is use to sort the file content.
+Input: sort pr1.txt
+Output:
+
+   15. mv
+It is use move the file from one to another.
+Input: mv pr1.txt pr2.txt
+Output:
+
+   16. cp
+It is use to copy the file content.
+Input: cp pr1.txt pr2.txt
+Output:
+
+   17. clear
+It is use to clear the terminal contents.
+Input: clear
+Output:
